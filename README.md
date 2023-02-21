@@ -5,6 +5,7 @@ Pi-Hole - Website List to Block
 https://github.com/Joshi-Jhon23
 
 
+# Welcome
 Welcome to the Block-Domains wiki!
 Block-Domains Blocklists to block based on the category for home and business.
 
